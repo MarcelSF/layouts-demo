@@ -1,0 +1,17 @@
+.grid-red {
+  margin: 16px 0;
+  padding: 16px;
+  background-color: #DD1C1A;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+  border: 1px solid black;
+}
+
+.grid-blue {
+  margin: 16px 0;
+  padding: 16px;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+  border: 1px solid black;
+  background-color: 235789
+}

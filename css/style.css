@@ -4,9 +4,13 @@
 /* --- Components design --- */
 @import url("components/card.css");
 @import url("components/navbar.css");
+@import url("components/grid.css");
+@import url("components/my_container.css");
+@import url("components/map.css");
+
 
 /* --- Layouts --- */
-/*@import url("pages/campuses.css");*/
+@import url("pages/campuses.css");
 
 
 /* --- Fonts & colors --- */
